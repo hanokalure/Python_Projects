@@ -1,18 +1,26 @@
 #Project Overview
 This is a simple command-line based User Authentication System implemented in Python. The system allows users to register with a username, password, email, and phone number, and later log in using their credentials. The program ensures basic validation during registration, such as checking for password confirmation and ensuring the phone number is exactly 10 digits.
 
+<br>
+
 #Features
 ##User Registration:
 Users can register by providing a username, password, email, and phone number.
 The system checks that the password and confirmation password match.
 The phone number must be exactly 10 digits long.
 
+<br>
+
 ##User Login:
 Users can log in with their username and password.
 The system verifies the credentials before granting access.
 
+<br>
+
 ##Prerequisites
 Python 3.x should be installed on your machine.
+
+<br>
 
 #How to Run
 ##Clone or Download the Repository:
