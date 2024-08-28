@@ -4,6 +4,7 @@ This is a simple command-line based User Authentication System implemented in Py
 <br>
 
 Output
+<br>
 ============== USER REGISTRATION ==============
 User name : john_doe
 Password : ********
