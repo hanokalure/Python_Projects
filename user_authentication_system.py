@@ -22,7 +22,7 @@ def register():
     if password==confirmpassword :
         user[user_name]= {"password": password, "email": email, "phone": phone}
         print("User registered Sucessfully")
-        login()
+       main()
     else:
         print("Passwords do not match. Please try again.")
     main()
